@@ -1,0 +1,17 @@
+LICENSE
+MANIFEST.in
+README.md
+pyproject.toml
+.devcontainer/devcontainer.json
+.github/dependabot.yml
+src/nomad_parser_pwafqmc/__init__.py
+src/nomad_parser_pwafqmc.egg-info/PKG-INFO
+src/nomad_parser_pwafqmc.egg-info/SOURCES.txt
+src/nomad_parser_pwafqmc.egg-info/dependency_links.txt
+src/nomad_parser_pwafqmc.egg-info/entry_points.txt
+src/nomad_parser_pwafqmc.egg-info/requires.txt
+src/nomad_parser_pwafqmc.egg-info/top_level.txt
+src/nomad_parser_pwafqmc/parsers/__init__.py
+src/nomad_parser_pwafqmc/parsers/parser.py
+src/nomad_parser_pwafqmc/schema_packages/__init__.py
+src/nomad_parser_pwafqmc/schema_packages/schema_package.py
